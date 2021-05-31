@@ -1,0 +1,12 @@
+{
+  "name": "eos-icons-mirror",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lekoala/eos-icons-mirror"
+  },
+  "license": "MIT"
+}
